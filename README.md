@@ -2,6 +2,7 @@
 
 **Matamoscas Claro** e **Matamoscas Escuro** são dois temas personalizados para o
 Mattermost, desenvolvidos internamente para a DPQ.
+São temas adaptados dos temas para Mattermost **github** (Matamoscas Claro) e **monokai** (Matamoscas Escuro).
 
 Os temas utilizam a paleta institucional de três cores:
 
