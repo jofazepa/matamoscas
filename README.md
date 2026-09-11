@@ -17,7 +17,7 @@ Os temas utilizam a paleta institucional de três cores:
 | Tema              | Descrição                                                                 |
 |-------------------|---------------------------------------------------------------------------|
 | **Matamoscas Claro** | Área de mensagens clara, com a barra lateral (menu e lista de salas) em ardósia escura |
-| **Matamoscas Escuro** | Tema integralmente escuro, com o azul institucional a orientar o olhar    |
+| **Matamoscas Escuro** | Tema integralmente escuro, com destaques no azul institucional.    |
 
 ## Como aplicar
 
