@@ -1,4 +1,9 @@
+
 # Temas Matamoscas para Mattermost
+
+<p align="left">
+  <img src="assets/matamoscas-logo.png" alt="Logótipo Matamoscas" width="100"/>
+</p>
 
 **Matamoscas Claro** e **Matamoscas Escuro** são dois temas personalizados para o
 Mattermost, desenvolvidos internamente para a DPQ.
