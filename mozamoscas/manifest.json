@@ -1,0 +1,74 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Matamoscas",
+  "description": "Tema escuro Matamoscas para Firefox e Thunderbird",
+
+  "theme": {
+    "colors": {
+      "frame": "#28313A",
+      "frame_inactive": "#28313A",
+
+      "tab_background_text": "#D2D3D4",
+      "tab_loading": "#009DE0",
+      "tab_line": "#009DE0",
+      "tab_selected": "#333D45",
+      "tab_text": "#D2D3D4",
+
+      "toolbar": "#333D45",
+      "toolbar_text": "#D2D3D4",
+      "bookmark_text": "#D2D3D4",
+      "toolbar_field": "#242C32",
+      "toolbar_field_text": "#D2D3D4",
+      "toolbar_field_border": "#333D45",
+      "toolbar_field_border_focus": "#009DE0",
+      "toolbar_field_highlight": "#153F52",
+      "toolbar_field_highlight_text": "#FFFFFF",
+      "toolbar_bottom_separator": "#242C32",
+      "toolbar_top_separator": "#242C32",
+      "toolbar_vertical_separator": "#242C32",
+
+      "icons": "#8A9AA3",
+      "icons_attention": "#009DE0",
+      "button": "#009DE0",
+      "button_hover": "#0087C4",
+      "button_active": "#0075AB",
+      "button_primary": "#009DE0",
+      "button_primary_hover": "#0087C4",
+      "button_primary_active": "#0075AB",
+      "button_primary_color": "#FFFFFF",
+
+      "popup": "#333D45",
+      "popup_text": "#D2D3D4",
+      "popup_border": "#28313A",
+      "popup_highlight": "#414F59",
+      "popup_highlight_text": "#FFFFFF",
+
+      "sidebar": "#333D45",
+      "sidebar_text": "#D2D3D4",
+      "sidebar_border": "#242C32",
+      "sidebar_highlight": "#414F59",
+      "sidebar_highlight_text": "#FFFFFF",
+
+      "input_background": "#242C32",
+      "input_color": "#D2D3D4",
+      "input_border": "#3C4852",
+
+      "error_text": "#E05252",
+      "warning_text": "#FFCB6B",
+      "success_text": "#C3E88D",
+
+      "focus_outline": "#009DE0",
+      "autocomplete_popup": "#242C32",
+      "autocomplete_popup_hover": "#414F59",
+      "autocomplete_popup_selected": "#153F52",
+      "autocomplete_popup_text": "#D2D3D4",
+
+      "ntp_background": "#242C32",
+      "ntp_text": "#D2D3D4",
+      "ntp_card_background": "#333D45",
+      "ntp_card_column": "#414F59",
+      "ntp_card_column_header": "#009DE0"
+    }
+  }
+}
