@@ -17,11 +17,11 @@ Utiliza a paleta institucional de três cores:
 | Ardósia   | `#46555F` | Fundos e superfícies do editor                      |
 | Cinzento  | `#D2D3D4` | Texto secundário e elementos neutros                 |
 
-O tema é distribuído num único ficheiro, `matamoscas.rstheme`.
+O tema é distribuído em dois ficheiros, `matamoscas-claro.rstheme` e `matamoscas-escuro.rstheme`.
 
 ## Como instalar
 
-1. Descarrega o ficheiro `matamoscas.rstheme` deste repositório.
+1. Descarrega o ficheiro `matamoscas-claro.rstheme` ou `matamoscas-escuro.rstheme` deste repositório.
 2. Abre o RStudio e vai a **Tools → Global Options... → Appearance**.
 3. Na lista **Editor theme**, clica em **Add Theme...** (canto inferior direito).
 4. Seleciona o ficheiro `matamoscas.rstheme` e confirma.
