@@ -178,7 +178,7 @@
 
 .ace_comment {
   font-style: italic;
-  color: #546e7a;
+  color: #5dade2;
 }
 
 .ace_invisible {
