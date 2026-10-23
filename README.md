@@ -1,9 +1,35 @@
 
-# Temas Matamoscas para Mattermost
+# Temas Matamoscas
 
 <p align="left">
   <img src="assets/matamoscas-logo.png" alt="Logótipo Matamoscas" width="100"/>
 </p>
+
+## Matamoscas para RStudio
+
+**Matamoscas** é um tema personalizado para o editor do RStudio, desenvolvido internamente para a DPQ.
+
+Utiliza a paleta institucional de três cores:
+
+| Cor       | Hex       | Utilização                                          |
+|-----------|-----------|-----------------------------------------------------|
+| Azul      | `#009DE0` | Acentos: seleção, comentários, indicações de actividade |
+| Ardósia   | `#46555F` | Fundos e superfícies do editor                      |
+| Cinzento  | `#D2D3D4` | Texto secundário e elementos neutros                 |
+
+O tema é distribuído num único ficheiro, `matamoscas.rstheme`.
+
+## Como instalar
+
+1. Descarrega o ficheiro `matamoscas.rstheme` deste repositório.
+2. Abre o RStudio e vai a **Tools → Global Options... → Appearance**.
+3. Na lista **Editor theme**, clica em **Add Theme...** (canto inferior direito).
+4. Seleciona o ficheiro `matamoscas.rstheme` e confirma.
+5. O tema **Matamoscas** fica disponível na lista de temas; seleciona-o e clica em **Apply**.
+
+Para remover o tema, basta voltar a **Appearance**, selecionar o **Matamoscas** na lista e clicar em **Remove**.
+
+## Matamoscas para Mattermost
 
 **Matamoscas Claro** e **Matamoscas Escuro** são dois temas personalizados para o
 Mattermost, desenvolvidos internamente para a DPQ.
